@@ -1,0 +1,22 @@
+{
+    "packages": {
+        "wordpress/wordpress": {
+            "3.5.1": {
+                "name": "wordpress/wordpress",
+                "version": "3.5.1",
+                "type": "symfonypress-wordpress",
+                "dist": {
+                    "https://github.com/WordPress/WordPress/archive/3.5.1.zip"
+                }
+            },
+            "3.5.0": {
+                "name": "wordpress/wordpress",
+                "version": "3.5.0",
+                "type": "symfonypress-wordpress",
+                "dist": {
+                    "https://github.com/WordPress/WordPress/archive/3.5.zip"
+                }
+            }
+        }
+    }
+}
