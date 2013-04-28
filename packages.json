@@ -6,7 +6,13 @@
                 "version": "3.5.1",
                 "type": "symfonypress-wordpress",
                 "dist": {
-                    "https://github.com/WordPress/WordPress/archive/3.5.1.zip"
+                    "url": "https://github.com/WordPress/WordPress/archive/3.5.1.zip",
+                    "type": "zip"
+                },
+                "source": {
+                    "url": "git://github.com/WordPress/WordPress.git",
+                    "type": "git",
+                    "reference": "3.5.1"
                 }
             },
             "3.5.0": {
@@ -14,7 +20,13 @@
                 "version": "3.5.0",
                 "type": "symfonypress-wordpress",
                 "dist": {
-                    "https://github.com/WordPress/WordPress/archive/3.5.zip"
+                    "url": "https://github.com/WordPress/WordPress/archive/3.5.zip",
+                    "type": "zip"
+                },
+                "source": {
+                    "url": "git://github.com/WordPress/WordPress.git",
+                    "type": "git",
+                    "reference": "3.5"
                 }
             }
         }
